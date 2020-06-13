@@ -131,8 +131,8 @@
             <div style="text-align:center">
                 <br></br>
                 <a name="contact"> <h2 style="font-family:Nickainley;font-size:8.5vw;" > Stay in touch</h2></a>
-                <a href="github.com/brinascode">  <img style="padding:10px;" src="http://brinascode.github.io/images/icons/github.png" width="8%" alt="github icon" style="margin-right:3vw;"/></a>
-                <a href="instagram.com/brinascode"><img style="padding:10px;" src="http://brinascode.github.io/images/icons/instagram-icon.png" width="8%" alt="instagram icon"/></a>
+                <a href="hrd.html">  <img style="padding:10px;" src="http://brinascode.github.io/images/icons/github.png" width="8%" alt="github icon" style="margin-right:3vw;"/></a>
+                <a href="index(CIA).html"><img style="padding:10px;" src="http://brinascode.github.io/images/icons/instagram-icon.png" width="8%" alt="instagram icon"/></a>
             </div>   
             
             <div class="outer-square" style="margin-top:-20.5vw;">
