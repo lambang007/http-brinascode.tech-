@@ -148,8 +148,8 @@
              </div>
         </footer>
   
-        <script src="js/portfolioData.js"></script>
-        <script src="js/getPortfolioContent.js"></script>
+        <script src="http://brinascode.github.io/js/portfolioData.js"></script>
+        <script src="http://brinascode.github.io/js/getPortfolioContent.js"></script>
     </body>
 </html>
 
